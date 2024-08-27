@@ -11,7 +11,7 @@ const App = () => {
   // - BotPage when the URL matches "/"
   // - BotSpecsPage when the URL matches "/robots/:id"
   // - NotFoundPage when the URL doesn't match either of the above URLs
-
+/** FEEDBACK: Great job! */
   return (
     <div className="App">
       <Routes>
